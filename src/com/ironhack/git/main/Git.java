@@ -5,6 +5,7 @@ public class Git {
     public static void main(String[] args) {
     System.out.println("hello git :D");
         System.out.println("change");
+        System.out.println("new");
     }
 
 }
